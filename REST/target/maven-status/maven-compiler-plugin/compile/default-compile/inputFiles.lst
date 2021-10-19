@@ -1,0 +1,8 @@
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\controllers\MealsRestController.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\exceptions\MealNotFoundException.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\FoodRestServiceApplication.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\exceptions\MealNotFoundAdvice.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\domain\MealsRepository.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\domain\MealType.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\domain\Meal.java
+C:\Users\W10\Documents\Unief\Master\1e_master\Semester_1\Distributed_Systems\Lab2\REST\src\main\java\be\kuleuven\foodrestservice\controllers\MealsRestRpcStyleController.java
